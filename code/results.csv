@@ -1,0 +1,26 @@
+,image_name: ,predicted_class_idx,predicted_class_label
+0,earth5.jpeg,5,Water_Disaster
+1,land3.jpg,3,Land_Disaster
+2,wild3.jpeg,1,Fire_Disaster
+3,wild1.jpg,1,Fire_Disaster
+4,urb3.jpeg,1,Fire_Disaster
+5,sea2.jpeg,5,Water_Disaster
+6,earth1.jpeg,3,Land_Disaster
+7,d1.jpeg,3,Land_Disaster
+8,in1.jpg,0,Damaged_Infrastructure
+9,in3.jpeg,3,Land_Disaster
+10,earth3.jpeg,0,Damaged_Infrastructure
+11,urb4.jpeg,1,Fire_Disaster
+12,land1.jpg,3,Land_Disaster
+13,in2.jpeg,0,Damaged_Infrastructure
+14,earth4.jpeg,4,Non_Damage
+15,land2.jpeg,3,Land_Disaster
+16,wild2.jpeg,1,Fire_Disaster
+17,sea3.jpeg,5,Water_Disaster
+18,urb1.jpeg,1,Fire_Disaster
+19,d4.jpg,3,Land_Disaster
+20,d3.jpg,3,Land_Disaster
+21,sea1.jpg,4,Non_Damage
+22,d2.jpeg,3,Land_Disaster
+23,earth2.jpg,3,Land_Disaster
+24,urb2.jpeg,1,Fire_Disaster
