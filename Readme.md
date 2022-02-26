@@ -1,4 +1,4 @@
-# SCAAI 2nd Round project
+# Random Image Collagination as Augmentations
 **TOPIC:**  
 Developing a image classifiaction model for classifying the disaster into different classes
 of disaster, like land disaster, water disaster etc.
